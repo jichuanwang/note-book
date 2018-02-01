@@ -1,3 +1,9 @@
 感兴趣的书
 1.游戏编程中的人工智能技术
 2.机器学习和人工智能如何重塑世界
+
+
+
+有时间看的链接
+1. 图像识别  https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/  
+2. 图像处理 opencv http://blog.csdn.net/column/details/opencv-tutorial.html
