@@ -5,5 +5,12 @@
 
 
 有时间看的链接
+
+图像处理
 1. 图像识别  https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/  
 2. 图像处理 opencv http://blog.csdn.net/column/details/opencv-tutorial.html
+3. 数字图片处理的基本原理 http://b2museum.cdstm.cn/identification/sztxcl-relative.htm
+4.相似图片搜索的原理 http://www.ruanyifeng.com/blog/2011/07/principle_of_similar_image_search.html
+
+区块链
+1.比特币相关  http://www.ruanyifeng.com/blog/2018/01/bitcoin-tutorial.html
